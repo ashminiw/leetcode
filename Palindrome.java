@@ -3,7 +3,7 @@
 // An integer is a palindrome when it reads the same backward as forward.
 //  For example, 121 is palindrome while 123 is not.
 //also have to handle negatives
-class Solution {
+class HI {
 	public static void isPalindrome(int x) {
 		// 121 // 10 = 12
 		// 12 // 10 = 1
@@ -29,7 +29,7 @@ class Solution {
 		}		
 	    
 	}
-	public static void main(String[] args){
-		isPalindrome(515);
-	}
+	// public static void main(String[] args){
+	// 	isPalindrome(515);
+	// }
     }
