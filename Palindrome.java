@@ -29,7 +29,7 @@ class HI {
 		}		
 	    
 	}
-	// public static void main(String[] args){
-	// 	isPalindrome(515);
-	// }
+	public static void main(String[] args){
+		isPalindrome(515);
+	}
     }

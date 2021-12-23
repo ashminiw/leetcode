@@ -1,4 +1,0 @@
-# WEEK 1
-# 2sum reflection: easier problem and my brute force was well
-instead of returning null; return new int[0] --> first element of an empty integer array because the function int[] is expecting that as its return type
-also ALWAYS considering a hashmap and remembering you need the util to initialize it
